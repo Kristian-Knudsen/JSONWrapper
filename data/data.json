@@ -1,0 +1,16 @@
+{
+    "products": {
+        "1": {
+            "id": 1,
+            "name": "Air Jordan 1 Low Barcelona",
+            "price": "270",
+            "link": "/images/Shoe1.jpg"
+        },
+        "2": {
+            "id": 2,
+            "name": "Air Jordan 1 Mid Sonics",
+            "price": "270",
+            "link": "/images/Shoe2.jpg"
+        }
+    }
+}
